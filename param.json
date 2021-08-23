@@ -1,0 +1,13 @@
+{
+    "parameterId": "12345",
+    "parameters": [{
+            "code": "release_date 1",
+            "text": "June 2021 release"
+    },{
+        "code": "release_date 2",
+        "text": "June 2021 release"
+},{
+    "code": "release_date 3",
+    "text": "June 2021 release"
+}]
+}
