@@ -1,0 +1,7 @@
+{
+    "ParameterId": "xyz",
+    "link": {
+        "rel": "self",
+        "href": "google.com"
+    }
+}
