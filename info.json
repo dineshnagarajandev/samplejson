@@ -1,5 +1,6 @@
 {
-    "ParameterId": "xyz",
+    "mapId": "xyz1234",
+    "licenseKey": "XYZ1234",
     "link": {
         "rel": "self",
         "href": "google.com"

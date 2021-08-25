@@ -1,13 +1,13 @@
 {
-    "parameterId": "12345",
+    "mapId": "12345",
     "parameters": [{
-            "code": "release_date 1",
+            "code": "2.0",
             "text": "June 2021 release"
     },{
-        "code": "release_date 2",
+        "code": "1.1",
         "text": "June 2021 release"
 },{
-    "code": "release_date 3",
+    "code": "1.0",
     "text": "June 2021 release"
 }]
 }
