@@ -1,13 +1,7 @@
 {
     "mapId": "12345",
-    "parameters": [{
-            "code": "2.0",
-            "text": "June 2021 release"
-    },{
-        "code": "1.1",
-        "text": "June 2021 release"
-},{
-    "code": "1.0",
-    "text": "June 2021 release"
-}]
+    "parameters": {
+        "map_release_date": "June 2021 release",
+        "map_release_version": "2.0"
+    }
 }
